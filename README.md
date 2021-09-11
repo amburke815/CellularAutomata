@@ -1,0 +1,1 @@
+OOP-based cellular automata with a dedicated model, view, and controller. Takes advantage of Java 8's support for function objects to provide a flexible mechanism for creating and manipulating rules that govern the behavior of the automata
